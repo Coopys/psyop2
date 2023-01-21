@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-01-19 12:09:54 -0800
+title:  "MOBILE VERSION"
+date:  
 categories: jekyll update
 ---
 

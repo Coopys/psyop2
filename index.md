@@ -18,7 +18,7 @@ permalink: /
                   ░ ░
 
 
-[CLICK HERE FOR MOBILE VERSION](https://psyop.dev/jekyll/update/2023/01/17/welcome-to-jekyll.html)
+[CLICK HERE FOR MOBILE VERSION](https://psyop.dev/jekyll/update/2023/01/19/welcome-to-jekyll.html)
 
 
 
